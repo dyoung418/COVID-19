@@ -1,0 +1,53 @@
+Location,Retail_recreation,Grocery_pharmacy,Parks,Transit_stations,Workplaces,Residential,2016_candidate,governor_party
+USA,-0.47,-0.22,-0.19,-0.51,-0.38,0.12,Trump,Republican
+Alabama,-0.41,-0.13,0.19,-0.30,-0.32,0.09,Trump,Republican
+Alaska,-0.48,-0.27,0.18,-0.55,-0.33,0.10,Trump,Republican
+Arizona,-0.40,-0.17,-0.07,-0.41,-0.33,0.10,Trump,Republican
+Arkansas,-0.29,-0.07,0.81,-0.22,-0.27,0.07,Trump,Republican
+California,-0.50,-0.24,-0.38,-0.54,-0.39,0.15,Clinton,Democratic
+Colorado,-0.51,-0.27,-0.12,-0.60,-0.40,0.13,Clinton,Democratic
+Connecticut,-0.56,-0.32,-0.52,-0.64,-0.38,0.15,Clinton,Democratic
+Delaware,-0.47,-0.28,-0.06,-0.57,-0.37,0.12,Clinton,Democratic
+District of Columbia,-0.64,-0.30,-0.41,-0.68,-0.47,0.14,Trump,Democratic
+Florida,-0.50,-0.26,-0.48,-0.63,-0.41,0.13,Trump,Republican
+Georgia,-0.42,-0.17,-0.02,-0.52,-0.37,0.11,Trump,Republican
+Hawaii,-0.56,-0.36,-0.65,-0.72,-0.45,0.16,Clinton,Democratic
+Idaho,-0.42,-0.18,0.25,-0.34,-0.38,0.10,Trump,Republican
+Illinois,-0.53,-0.24,-0.29,-0.55,-0.39,0.13,Clinton,Democratic
+Indiana,-0.48,-0.25,0.24,-0.34,-0.36,0.11,Trump,Republican
+Iowa,-0.43,-0.10,0.41,-0.28,-0.29,0.10,Trump,Republican
+Kansas,-0.36,-0.14,0.72,-0.20,-0.30,0.09,Trump,Democratic
+Kentucky,-0.37,-0.11,0.68,-0.34,-0.34,0.09,Trump,Democratic
+Louisiana,-0.45,-0.16,-0.18,-0.49,-0.35,0.11,Trump,Democratic
+Maine,-0.50,-0.22,-0.24,-0.56,-0.31,0.10,Clinton,Democratic
+Maryland,-0.45,-0.25,0.29,-0.51,-0.39,0.13,Clinton,Republican
+Massachusetts,-0.59,-0.36,-0.56,-0.73,-0.42,0.16,Clinton,Republican
+Michigan,-0.58,-0.28,0.15,-0.55,-0.43,0.12,Trump,Democratic
+Minnesota,-0.58,-0.35,-0.16,-0.64,-0.38,0.14,Clinton,Democratic
+Mississippi,-0.32,-0.07,-0.27,-0.29,-0.30,0.09,Trump,Republican
+Missouri,-0.38,-0.12,0.73,-0.34,-0.32,0.09,Trump,Republican
+Montana,-0.51,-0.25,0.28,-0.37,-0.37,0.10,Trump,Democratic
+Nebraska,-0.34,-0.09,1.09,-0.18,-0.24,0.08,Trump,Republican
+Nevada,-0.47,-0.23,-0.38,-0.62,-0.52,0.14,Clinton,Democratic
+New Hampshire,-0.58,-0.35,-0.63,-0.63,-0.38,0.13,Clinton,Republican
+New Jersey,-0.59,-0.33,-0.36,-0.70,-0.44,0.16,Clinton,Democratic
+New Mexico,-0.44,-0.18,-0.12,-0.31,-0.34,0.11,Clinton,Democratic
+New York,-0.62,-0.32,-0.47,-0.68,-0.46,0.16,Clinton,Democratic
+North Carolina,-0.40,-0.15,0.13,-0.51,-0.35,0.10,Trump,Democratic
+North Dakota,-0.44,-0.13,0.73,-0.36,-0.24,0.09,Trump,Republican
+Ohio,-0.43,-0.19,1.17,-0.33,-0.35,0.10,Trump,Republican
+Oklahoma,-0.36,-0.12,0.29,-0.23,-0.32,0.09,Trump,Republican
+Oregon,-0.51,-0.25,-0.22,-0.47,-0.38,0.12,Clinton,Democratic
+Pennsylvania,-0.50,-0.27,0.07,-0.52,-0.38,0.12,Trump,Democratic
+Rhode Island,-0.55,-0.30,-0.50,-0.67,-0.37,0.14,Clinton,Democratic
+South Carolina,-0.38,-0.11,-0.04,-0.34,-0.34,0.09,Trump,Republican
+South Dakota,-0.35,-0.03,1.26,-0.31,-0.25,0.08,Trump,Republican
+Tennessee,-0.35,-0.09,0.35,-0.35,-0.34,0.08,Trump,Republican
+Texas,-0.45,-0.23,-0.27,-0.47,-0.36,0.13,Trump,Republican
+Utah,-0.41,-0.14,0.26,-0.44,-0.40,0.10,Trump,Republican
+Vermont,-0.62,-0.42,-0.55,-0.71,-0.43,0.13,Clinton,Republican
+Virginia,-0.39,-0.16,0.46,-0.50,-0.36,0.11,Clinton,Democratic
+Washington,-0.48,-0.26,-0.11,-0.56,-0.41,0.13,Clinton,Democratic
+West Virginia,-0.38,-0.16,0.52,-0.31,-0.33,0.08,Trump,Republican
+Wisconsin,-0.55,-0.30,-0.12,-0.50,-0.34,0.13,Trump,Democratic
+Wyoming,-0.37,-0.13,0.29,-0.14,-0.29,0.08,Trump,Republican
